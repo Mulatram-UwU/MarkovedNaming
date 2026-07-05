@@ -1,4 +1,5 @@
 s='''# MarkovedNaming
+![](https://count.himiku.com/@MarkovedNaming)\\
 Generates non-existent english word to name your project, product, or company etc. using Markov Chain.\\
 Some times, it may generate a word that already exists but not included in datas.txt, but most of the time it will generate a new word.
 ## Daily Generated Names
